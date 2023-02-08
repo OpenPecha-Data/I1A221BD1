@@ -1,0 +1,16 @@
+id: I1A221BD1
+default_language: mon
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 15:27:40.500960
+last_modified: 2023-02-08 15:27:40.501076
+source_metadata:
+  title: 'PP: Vajracchedikā Prajñāpāramitā'
+  language: mon
+bases:
+  DCF9:
+    base_file: DCF9.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
